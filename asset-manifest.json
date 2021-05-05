@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ytvid/static/css/main.0e59f8e1.chunk.css",
-    "main.js": "/ytvid/static/js/main.1dc09732.chunk.js",
-    "main.js.map": "/ytvid/static/js/main.1dc09732.chunk.js.map",
+    "main.js": "/ytvid/static/js/main.afdfa398.chunk.js",
+    "main.js.map": "/ytvid/static/js/main.afdfa398.chunk.js.map",
     "runtime-main.js": "/ytvid/static/js/runtime-main.c8e57cc5.js",
     "runtime-main.js.map": "/ytvid/static/js/runtime-main.c8e57cc5.js.map",
     "static/js/2.026e1392.chunk.js": "/ytvid/static/js/2.026e1392.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c8e57cc5.js",
     "static/js/2.026e1392.chunk.js",
     "static/css/main.0e59f8e1.chunk.css",
-    "static/js/main.1dc09732.chunk.js"
+    "static/js/main.afdfa398.chunk.js"
   ]
 }
